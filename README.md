@@ -25,3 +25,5 @@ presentan valores altos. Si bien valores altos de dichas métricas puede ir de l
 modelo que solo predice valores positivos, lo cual disminuye las predicciones false negative (incrementando 
 por ende el **recall**), ambos modelos presentan altos valores de **specificity** (cercanos a uno) por 
 lo que los modelos son buenos también en las predicciones de negativos.
+
+Para finalizar se presentan las correspondientes matrices de confusión.
