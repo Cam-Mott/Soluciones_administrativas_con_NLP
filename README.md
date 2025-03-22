@@ -16,7 +16,11 @@ esta disponible en google sheets y es de libre acceso. En la misma se puede obse
 Las columnas "ingreso" y "egreso" fueron eliminadas por las mismas razones de confidencialidad. 
 
 ## **Métricas**
-Tanto el modelo a partir de BoW como TF-IDF presentan valores de accuracy, precision, recall y f1 
-mayores a 0.90. Los mismos son presentados a partir de la función classification_report de la biblioteca
+Tanto el modelo basado en BoW como en TF-IDF presentan valores de accuracy superiores a 0.98. 
+Los mismos son presentados a partir de la función classification_report de la biblioteca
 sklearn.metrics. Paralelamente se calcula el parámetro "Specifity" para determinar la presencia o 
-no de overfitting. 
+no de overfitting. Podemos observar que tantos las métricas **presicion** como **recall** también 
+presentan valores altos. Si bien valores altos de dichas métricas puede ir de la mano con un 
+modelo que solo predice valores positivos, lo cual disminuye las predicciones false negative (incrementando 
+por ende el **recall**), ambos modelos presentan altos valores de **specificity** (cercanos a uno) por 
+lo que los modelos son buenos también en las predicciones de negativos.
