@@ -18,8 +18,9 @@ Las columnas "ingreso" y "egreso" fueron eliminadas por las mismas razones de co
 ## **Métricas**
 Tanto el modelo basado en BoW como en TF-IDF presentan valores de accuracy superiores a 0.98. 
 Los mismos son presentados a partir de la función classification_report de la biblioteca
-sklearn.metrics. Paralelamente se calcula el parámetro "Specifity" para determinar la presencia o 
-no de overfitting. Podemos observar que tantos las métricas **presicion** como **recall** también 
+sklearn.metrics. Paralelamente se calcula el parámetro **specifity**. 
+
+Podemos observar que tantos las métricas **presicion** como **recall**
 presentan valores altos. Si bien valores altos de dichas métricas puede ir de la mano con un 
 modelo que solo predice valores positivos, lo cual disminuye las predicciones false negative (incrementando 
 por ende el **recall**), ambos modelos presentan altos valores de **specificity** (cercanos a uno) por 
