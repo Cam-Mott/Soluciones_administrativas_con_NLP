@@ -18,5 +18,5 @@ Las columnas "ingreso" y "egreso" fueron eliminadas por las mismas razones de co
 ## **Métricas**
 Tanto el modelo a partir de BoW como TF-IDF presentan valores de accuracy, precision, recall y f1 
 mayores a 0.90. Los mismos son presentados a partir de la función classification_report de la biblioteca
-sklearn.metrics. Paralelamente se calcula el parámetro "Sentitive" para determinar la presencia o 
+sklearn.metrics. Paralelamente se calcula el parámetro "Specifity" para determinar la presencia o 
 no de overfitting. 
