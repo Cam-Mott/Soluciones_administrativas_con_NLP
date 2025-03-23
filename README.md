@@ -17,7 +17,7 @@ esta disponible en google sheets y es de libre acceso. En la misma se puede obse
 Las columnas "ingreso" y "egreso" fueron eliminadas por las mismas razones de confidencialidad. 
 
 ## **Métricas**
-Tanto el modelo basado en BoW como en TF-IDF presentan valores de accuracy superiores a 0.98. 
+Tanto el modelo basado en BoW como en TF-IDF presentan valores de accuracy superiores a 0.95. 
 Los mismos son presentados a partir de la función classification_report de la biblioteca
 sklearn.metrics. Paralelamente se calcula el parámetro **specifity**. 
 
