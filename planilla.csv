@@ -1,617 +1,631 @@
-,fecha,concepto,categoría,egreso
-1,02/01/2024,Sandra Limpieza,Gsts Varios SH," $12,000.00"
-2,02/01/2024,Tere Cubre Francos,Serv. Comer. y Fin," $216,345.00"
-4,02/01/2024,Bolsas,Gsts Varios SH," $2,000.00"
-7,03/01/2024,Carlos Md,Logística," $132,000.00"
-9,03/01/2024,Celeste CAJA,Serv. Comer. y Fin," $364,000.00"
-10,03/01/2024,sandrita Limpieza,Gsts Varios SH," $12,000.00"
-12,04/01/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin," $259,000.00"
-15,04/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $2,061.00"
-16,04/01/2024,Send Box,Logística," $11,472.00"
-17,04/01/2024,Bicentenario,Logística," $8,385.00"
-18,04/01/2024,Fernando Falcon Reyes (vuelto de dolares),Serv. Comer. y Fin," $20,300.00"
-19,04/01/2024,Compra medicamentos,Gsts Varios SH," $7,000.00"
-22,05/01/2024,Carlos Md,Logística," $150,400.00"
-23,05/01/2024,Sandrita Limpieza,Gsts Varios SH," $12,000.00"
-27,08/01/2023,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $55,320.00"
-28,08/01/2023,BICENTENARIO,Logística," $5,457.00"
-30,08/01/2023,Pehuen Sueldo en Efectivo,Serv. Comer. y Fin," $383,482.00"
-31,08/01/2023,SANDRITA Limpieza,Gsts Varios SH," $12,000.00"
-32,08/01/2023,Maria Constanza Soria (Doy vuelto en pesos),Serv. Comer. y Fin," $69,500.00"
-33,09/01/2024,Via Cargo,Logística," $29,730.00"
-34,09/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $144,585.00"
-38,10/01/2024,Samael CAJA,Serv. Comer. y Fin," $1,350,000.00"
-40,10/01/2024,Bicentenario,Logística," $3,355.00"
-42,10/01/2024,Sandra Limpieza,Gsts Varios SH," $12,000.00"
-43,11/01/2024,Send Box,Logística," $19,500.00"
-44,11/01/2024,Tere Comisiones Soul Garden,Serv. Comer. y Fin," $51,000.00"
-45,11/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $39,960.00"
-48,12/01/2024,send box,Logística," $16,500.00"
-49,12/01/2024,Franco Tecnico,Serv. Comer. y Fin," $28,200.00"
-52,12/01/2024,Sandra Limpieza,Gsts Varios SH," $12,000.00"
-54,13/01/2024,caja sama,Serv. Comer. y Fin," $56,000.00"
-55,13/01/2024,Tere Caja,Serv. Comer. y Fin," $63,000.00"
-56,13/01/2024,caja Damaris,Serv. Comer. y Fin," $480,000.00"
-58,15/01/2024,CAJA EUGE ADELANTO VACAS,Serv. Comer. y Fin," $150,000.00"
-59,15/01/2024,PRESTE PEWEN PISO,Serv. Comer. y Fin," $20,000.00"
-61,15/01/2024,SUPER ,Gsts Varios SH," $73,900.00"
-62,15/01/2024,SANDRITA Limpieza,Gsts Varios SH," $13,000.00"
-63,16/01/2024,Carlos Md,Logística," $10,750.00"
-64,16/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $8,614.00"
-68,16/01/2024,SEND BOX,Logística," $11,472.00"
-69,16/01/2024,LLaves Local ,Gsts Varios SH," $12,000.00"
-71,16/01/2024,Celeste CAJA,Serv. Comer. y Fin," $464,600.00"
-72,16/01/2024,Pehuen CAJA,Serv. Comer. y Fin," $157,100.00"
-73,17/01/2024,Carlos md ,Logística," $86,700.00"
-74,17/01/2024,Compras Local,Gsts Varios SH," $10,977.00"
-75,17/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $37,760.00"
-78,17/01/2024,Ezequiel CAJA,Serv. Comer. y Fin," $50,000.00"
-79,17/01/2024,Sandrita Servicio de Limpieza,Gsts Varios SH," $13,000.00"
-82,18/01/2024,Euge cambia Dolares,Serv. Comer. y Fin," $248,000.00"
-83,18/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $8,680.00"
-84,18/01/2024,Federico Castelli Devolucion cliente Carlota,Serv. Comer. y Fin," $54,000.00"
-85,18/01/2024,Arreglo de aire acondicionado,Extraordinarios," $37,500.00"
-86,19/01/2024,Carlos Md,Logística," $32,640.00"
-87,19/01/2024,via cargo ,Logística," $6,980.00"
-89,19/01/2024,Send Box,Logística," $8,538.00"
-91,19/01/2024,Franco Tecnico ,Serv. Comer. y Fin," $15,000.00"
-92,19/01/2024,Regalo Juan - Fede / Gabri,Extraordinarios," $100,000.00"
-93,19/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $31,726.00"
-94,20/01/2024,Carlos Md,Logística," $132,500.00"
-95,20/01/2024,Carlos Md,Logística," $50,728.00"
-99,22/01/2024,Send Box,Logística," $11,500.00"
-100,22/01/2024,Tere CAJA,Serv. Comer. y Fin," $274,000.00"
-101,22/01/2024,Sandra Limpieza,Gsts Varios SH," $13,000.00"
-103,23/01/2024,CAJA SAMA ,Serv. Comer. y Fin," $9,000.00"
-105,24/01/2024,devolucion lorena comminoti,Serv. Comer. y Fin," $75,000.00"
-107,24/01/2024,pileta para gaby ,Extraordinarios," $60,000.00"
-108,24/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $21,505.00"
-109,24/01/2024,Samael CAJA,Serv. Comer. y Fin," $700,000.00"
-111,25/01/2024,Carlos Md,Logística," $63,300.00"
-113,25/01/2024,Sandrita Limpieza,Gsts Varios SH," $13,000.00"
-114,25/01/2024,Eugenia CAJA,Serv. Comer. y Fin," $50,000.00"
-115,26/01/2024,send box,Logística," $8,230.00"
-116,26/01/2024,Sandrita Limpieza,Gsts Varios SH," $13,000.00"
-120,26/01/2024,Comisiones Marquez y Asociados ,Serv. Comer. y Fin," $183,900.00"
-126,29/01/2024,torta cumple sama,Extraordinarios," $16,700.00"
-127,29/01/2024,Diego corte,Serv. Comer. y Fin," $4,000.00"
-128,29/01/2024,Md Cargas,Logística," $105,000.00"
-129,29/01/2024,papelera ,Gsts Varios SH," $24,637.00"
-131,29/01/2024,colocaciones Diego,Serv. Comer. y Fin," $30,000.00"
-132,29/01/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin," $454,500.00"
-133,30/01/2024,Lucia CAJA,Serv. Comer. y Fin," $89,400.00"
-137,30/01/2024,Sandra Limpieza,Gsts Varios SH," $13,000.00"
-141,31/01/2024,"Melisa Moyano, vuelto de dolares",Serv. Comer. y Fin," $72,000.00"
-143,31/01/2024,Bicentenario,Logística," $12,500.00"
-144,31/01/2024,sandrita limpieza,Gsts Varios SH," $13,000.00"
-145,31/01/2024,Sandwich de Miga,Gsts Varios SH," $10,000.00"
-146,31/01/2024,Caja Tere,Serv. Comer. y Fin," $10,000.00"
-147,31/01/2024,cumple sama autoriza euge ,Extraordinarios," $30,000.00"
-151,01/02/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $102,397.00"
-152,02/02/2024,Aguinaldo Sandra Limpieza,Serv. Comer. y Fin," $78,200.00"
-153,02/02/2024,Celeste CAJA,Serv. Comer. y Fin," $390,200.00"
-154,02/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-155,02/02/2024,cereales,Gsts Varios SH," $51,700.00"
-158,05/02/2024,Bicentenario,Logística," $59,100.00"
-159,05/02/2024,Send Box,Logística," $13,500.00"
-160,05/02/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $70,786.00"
-161,05/02/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin," $366,000.00"
-162,05/02/2024,Esteban Consultores comerciales - Bachi,Serv. Comer. y Fin," $89,600.00"
-163,06/02/2024,Send Box,Logística," $9,750.00"
-164,06/02/2024,Tere Caja,Serv. Comer. y Fin," $208,000.00"
-167,06/02/2024,Pehuen CAJA,Serv. Comer. y Fin," $276,000.00"
-168,06/02/2024,Maria Eugenia Funes (Devolucion de plata),Serv. Comer. y Fin," $8,966.00"
-169,06/02/2024,Cerrajeria puerta Local,Extraordinarios," $36,000.00"
-175,07/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-176,07/02/2024,Tere cubre Francos,Serv. Comer. y Fin," $131,500.00"
-177,08/02/2024,Gastos Local,Gsts Varios SH," $27,500.00"
-178,08/02/2024,Reunion Euge,Extraordinarios," $9,000.00"
-179,08/02/2024,Send Box,Logística," $9,600.00"
-180,08/02/2024,Super local,Gsts Varios SH," $106,199.00"
-182,08/02/2024,Foquito Local,Gsts Varios SH," $3,300.00"
-183,08/02/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $62,440.00"
-184,08/02/2024,Mariela Macario ( vuelto ),Serv. Comer. y Fin," $12,000.00"
-188,09/02/2024,Bandas elasticas,Gsts Varios SH," $7,700.00"
-189,09/02/2024,Franco Tecnico,Serv. Comer. y Fin," $145,000.00"
-190,09/02/2024,libreria,Gsts Varios SH," $19,660.00"
-191,09/02/2024,alquiler ish CAJA,Serv. Comer. y Fin," $120,000.00"
-192,09/02/2024, vacaciones sandrita limpieza,Extraordinarios," $196,000.00"
-193,09/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-194,09/02/2024,Diego Tecnico ,Serv. Comer. y Fin," $347,100.00"
-199,14/02/2024,Bolsas ,Gsts Varios SH," $8,000.00"
-200,14/02/2024,Damaris CAJA,Serv. Comer. y Fin," $270,000.00"
-204,15/02/2024,Carlota CAJA,Serv. Comer. y Fin," $166,500.00"
-205,15/02/2024,Diego Tecnico,Serv. Comer. y Fin," $194,400.00"
-207,15/02/2024,Samael CAJA,Serv. Comer. y Fin," $1,200,000.00"
-209,16/02/2024,Gladys Servicio de Limpieza,Gsts Varios SH," $14,000.00"
-211,16/02/2024,Via Cargo,Logística," $19,430.00"
-212,16/02/2024,Eugenia CAJA,Serv. Comer. y Fin," $100,000.00"
-214,17/02/2024,caja cele,Serv. Comer. y Fin," $1,300.00"
-216,19/02/2024,Gladys Servicio de Limpieza,Gsts Varios SH," $14,000.00"
-217,19/02/2024,Regalo Carlos MD Logistica,Extraordinarios," $14,730.00"
-218,19/02/2024,Walter Comisionista,Logística," $6,000.00"
-219,19/02/2024,Pehuen CAJA,Serv. Comer. y Fin," $349,000.00"
-220,19/02/2024,Cargadores ,Extraordinarios," $60,000.00"
-221,19/02/2024,Tere CAJA,Serv. Comer. y Fin," $54,000.00"
-222,21/02/2024,Eugenia CAJA ,Serv. Comer. y Fin," $100,000.00"
-225,21/02/2024,Via Cargo,Logística," $8,100.00"
-227,21/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-228,22/02/2024,veronica juarez devolucion dinero,Serv. Comer. y Fin," $146,226.00"
-229,22/02/2024,Celeste CAJA,Serv. Comer. y Fin," $334,500.00"
-230,22/02/2024,Damaris CAJA,Serv. Comer. y Fin," $50,000.00"
-231,22/02/2024,send box,Logística," $13,500.00"
-232,22/02/2024,Eugenia CAJA,Serv. Comer. y Fin," $50,000.00"
-233,22/02/2024,Celeste CAJA,Serv. Comer. y Fin," $30,000.00"
-234,23/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-241,26/02/2024,Damaris CAJA,Serv. Comer. y Fin," $50,000.00"
-242,26/02/2024,Diego Tecnico ,Serv. Comer. y Fin," $258,700.00"
-243,26/02/2024,Eugenia CAJA,Serv. Comer. y Fin," $90,000.00"
-245,26/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-246,27/02/2024,Send Box,Logística," $8,662.00"
-248,28/02/2024,Tere CAJA,Serv. Comer. y Fin," $83,000.00"
-250,28/02/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-252,29/02/2024,SEN BOX,Logística," $11,500.00"
-253,01/03/2024,Farmacia,Gsts Varios SH," $4,500.00"
-254,01/03/2024,Streecht Deposito,Logística," $29,900.00"
-255,01/03/2024,Ishtar CAJA,Serv. Comer. y Fin," $300,000.00"
-256,01/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-257,02/03/2024,Eugenia Viaje - Dpto,Extraordinarios," $300,000.00"
-258,04/03/2024,Md Cargas,Logística," $23,850.00"
-259,04/03/2024,send box,Logística," $12,800.00"
-260,04/03/2024,Sueldo Mattew deposito,Serv. Comer. y Fin," $390,500.00"
-261,04/03/2024,Transporte Sonic,Logística," $11,000.00"
-262,04/03/2024,Tere Cubre Francos,Serv. Comer. y Fin," $267,400.00"
-263,04/03/2024,Celeste CAJA,Serv. Comer. y Fin," $335,600.00"
-264,04/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-265,04/03/2024,Pehuen CAJA,Serv. Comer. y Fin," $166,600.00"
-266,04/03/2024,Samael CAJA,Serv. Comer. y Fin," $400,000.00"
-267,05/03/2024,Transporte Sonic,Logística," $5,500.00"
-268,05/03/2024,Marquez y Asociados - COMISIONES - Retira Tati,Serv. Comer. y Fin," $160,250.00"
-269,05/03/2024,Transporte Poty,Logística," $15,000.00"
-270,05/03/2024,Gastos Local,Gsts Varios SH," $7,100.00"
-272,06/03/2024,send box,Logística," $7,600.00"
-273,06/03/2024,Diego Tecnico,Serv. Comer. y Fin," $63,921.00"
-274,06/03/2024,via cargo ,Logística," $6,400.00"
-275,06/03/2024,libreria reunion horizonte,Gsts Varios SH," $13,600.00"
-276,07/03/2024,Walter comisionista,Logística," $5,000.00"
-277,07/03/2024,Panaderia ,Gsts Varios SH," $7,750.00"
-278,07/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-279,08/03/2024,libreria reunion horizonte,Gsts Varios SH," $5,000.00"
-281,08/03/2024,Send Box,Logística," $18,290.00"
-282,08/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-283,09/03/2024,diego tecnico,Serv. Comer. y Fin," $191,900.00"
-285,11/03/2024,Send Box,Logística," $9,200.00"
-287,11/03/2024,Tere CAJA,Serv. Comer. y Fin," $374,400.00"
-288,11/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-289,12/03/2024,Bebidas para entrevistas,Extraordinarios," $5,000.00"
-290,12/03/2024,Picadas para entrevistas,Extraordinarios," $19,200.00"
-291,12/03/2024,Cadete,Logística," $3,000.00"
-292,13/03/2024,Gabriel CAJA - Padel,Serv. Comer. y Fin," $11,500.00"
-293,13/03/2024,Gastos Local compra del mes ,Gsts Varios SH," $73,000.00"
-294,13/03/2024,Send Box,Logística," $20,720.00"
-295,13/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-296,14/03/2024,mariano gatonni ,Serv. Comer. y Fin," $19,296.00"
-299,14/03/2024,Diego tecnico CAJA,Serv. Comer. y Fin," $108,000.00"
-300,14/03/2024,Samael CAJA,Serv. Comer. y Fin," $450,000.00"
-302,15/03/2024,papelera ,Gsts Varios SH," $8,858.00"
-303,15/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-304,15/03/2024,Omar tecnico CAJA,Serv. Comer. y Fin," $226,300.00"
-305,15/03/2024,Regalo cumple Celeste - CR,Extraordinarios," $43,000.00"
-312,18/03/2024,Send Box,Logística," $9,200.00"
-313,18/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-314,18/03/2024,Regalo Celeste Showroom,Extraordinarios," $38,000.00"
-315,19/03/2024,Samael CAJA,Serv. Comer. y Fin," $512,500.00"
-316,19/03/2024,Send Box,Logística," $12,820.00"
-317,20/03/2024,Cereales Showroom,Gsts Varios SH," $60,000.00"
-318,20/03/2024,Gastos Local,Gsts Varios SH," $13,500.00"
-319,20/03/2024,Send Box,Logística," $13,820.00"
-320,20/03/2024,Send Box,Logística," $11,530.00"
-322,20/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-323,21/03/2024,Tere CAJA,Serv. Comer. y Fin," $37,000.00"
-324,22/03/2024,Gastos Local - Mouse,Gsts Varios SH," $4,200.00"
-325,22/03/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $43,453.00"
-326,22/03/2024,farmacia,Gsts Varios SH," $15,269.00"
-327,22/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-329,25/03/2024,torta cele ,Extraordinarios," $15,524.00"
-331,25/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-332,26/03/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $24,620.00"
-333,27/03/2024,Sama CAJA,Serv. Comer. y Fin," $44,800.00"
-334,27/03/2024,Send Box,Logística," $6,800.00"
-335,27/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-337,28/03/2024,Ricardo Comisionista,Logística," $12,000.00"
-339,28/03/2024,Send Box,Serv. Comer. y Fin," $8,600.00"
-341,28/03/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-344,29/03/2024,caja Celeste,Serv. Comer. y Fin," $226,800.00"
-346,30/03/2024,PEHUEN CAJA,Serv. Comer. y Fin," $761,766.00"
-347,03/04/2024,Asado primero de mes,Extraordinarios," $121,000.00"
-348,05/04/2024,Foco Deposito,Extraordinarios," $6,500.00"
-349,30/04/2024,regalo ani pewen,Extraordinarios," $18,000.00"
-350,03/04/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-351,05/04/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-352,08/04/2024,Sandrita Limpieza,Gsts Varios SH," $14,000.00"
-353,11/04/2024,Gasto Panaderia,Gsts Varios SH," $5,500.00"
-354,12/04/2024,Thames art. de Limpieza - gastos Showroom compartido,Gsts Varios SH," $118,250.00"
-355,12/04/2024,Gastos Local - Compra de alimentos,Gsts Varios SH," $99,930.00"
-356,12/04/2024,Servicio de limpieza Sandrita,Gsts Varios SH," $14,000.00"
-357,15/04/2024,Matafuegos,Gsts Varios SH," $78,000.00"
-358,15/04/2024,Gastos Deposito ,Gsts Varios SH," $29,842.96"
-359,15/04/2024,Sandrita Limpieza,Gsts Varios SH," $15,000.00"
-360,17/04/2024,Sandrita Limpieza,Gsts Varios SH," $15,000.00"
-361,19/04/2024,Gastos Local (Reunion Horizonte),Gsts Varios SH," $15,530.00"
-362,22/04/2024,sandrita limpieza,Gsts Varios SH," $15,000.00"
-363,24/04/2024,sandrita limpieza,Gsts Varios SH," $15,000.00"
-364,26/04/2024,sandrita limpieza,Gsts Varios SH," $15,000.00"
-365,29/04/2024,Gastos Local,Gsts Varios SH," $1,320.00"
-366,30/04/2024,sandrita limpieza,Gsts Varios SH," $15,000.00"
-367,05/04/2024,Send Box,Logística," $10,400.00"
-368,18/04/2024,Comisionista Walter,Logística," $5,000.00"
-369,24/04/2024,sendbox,Logística," $37,044.00"
-370,26/01/2024,Send Box,Logística," $14,510.00"
-371,30/04/2024,Send Box,Logística," $19,120.00"
-372,30/04/2024,Via Cargo,Logística," $35,890.00"
-373,01/04/2024,Omar Tecnico Instalaciones,Serv. Comer. y Fin," $171,000.00"
-374,03/04/2024,Tere Caja,Serv. Comer. y Fin," $5,000.00"
-375,03/04/2024,ISHTAR CAJA,Serv. Comer. y Fin," $500,000.00"
-376,03/04/2024,Entrega Sama en Oficina,Serv. Comer. y Fin," $2,400,000.00"
-377,05/04/2024,Ishtar CAJA,Serv. Comer. y Fin," $10,500.00"
-378,08/04/2024,Tere Cubre Franco,Serv. Comer. y Fin," $309,000.00"
-379,08/04/2024,Samael CAJA,Serv. Comer. y Fin," $600,000.00"
-380,09/04/2024,Preste PEWEN PISOS,Serv. Comer. y Fin," $20,000.00"
-381,09/04/2024,Juan Francisco Perez Gaudio,Serv. Comer. y Fin," $26,500.00"
-382,10/04/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin," $28,400.00"
-383,12/04/2024,Preste a Pewen,Serv. Comer. y Fin," $20,000.00"
-384,12/04/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $13,800.00"
-385,12/04/2024,Omar Tecnico Instalaciones,Serv. Comer. y Fin," $167,000.00"
-386,12/04/2024,Damaris CAJA,Serv. Comer. y Fin," $163,300.00"
-387,15/04/2024,Diego Tecnico Instalaciones,Serv. Comer. y Fin," $72,500.00"
-388,15/04/2024,jorge duarte vuelto,Serv. Comer. y Fin," $1,309.00"
-389,15/04/2024,Samael CAJA,Serv. Comer. y Fin," $105,000.00"
-390,17/04/2024,Tere CAJA,Serv. Comer. y Fin," $189,000.00"
-391,19/04/2024,Angelica Huaqaya (devilucion de pago total),Serv. Comer. y Fin," $157,900.00"
-392,20/04/2024,caja euge,Serv. Comer. y Fin," $100,000.00"
-393,23/04/2024,Gabriel CAJA - Mica - Retira Tati,Serv. Comer. y Fin," $70,000.00"
-394,26/04/2024,Diego cobra Instalaciones ,Serv. Comer. y Fin," $223,200.00"
-395,26/01/2024,Omar cobra Instalaciones,Serv. Comer. y Fin," $267,250.00"
-396,26/04/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $18,887.00"
-397,27/04/2024,Celeste CAJA,Serv. Comer. y Fin," $120,000.00"
-398,29/04/2024,vuelto en pesos lucas garcia,Serv. Comer. y Fin," $30,000.00"
-399,29/04/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $38,965.00"
-400,30/04/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $18,320.00"
-401,30/04/2024,Diego Cobra Instalaciones,Serv. Comer. y Fin," $67,000.00"
-421,03/05/2024,desayuno capacitacion riel europero,Gsts Varios SH," $13,000.00"
-422,03/05/2024,Tere CAJA,Serv. Comer. y Fin," $72,000.00"
-423,03/05/2024,Tere Cubre Francos,Serv. Comer. y Fin," $286,700.00"
-424,03/05/2024,Gastos Local - Compra mes,Gsts Varios SH," $88,400.00"
-425,03/05/2024,Eugenia CAJA,Serv. Comer. y Fin," $200,000.00"
-426,03/05/2024,Sandrita Limpieza,Gsts Varios SH," $15,000.00"
-427,03/05/2024,Euge devolucion a Pehuen,Serv. Comer. y Fin," $35,000.00"
-428,03/05/2024,Diego tecnico,Serv. Comer. y Fin," $154,000.00"
-429,03/05/2024,DIETETICA - ,Gsts Varios SH," $74,280.00"
-430,04/05/2024,Omar Tecnico,Serv. Comer. y Fin," $174,600.00"
-434,06/05/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $33,320.00"
-435,06/05/2024,sueldo Mattew Depostio,Serv. Comer. y Fin," $503,300.00"
-436,06/05/2024,Sandrita Limpieza,Gsts Varios SH," $15,000.00"
-437,07/05/2024,Ishtar CAJA,Serv. Comer. y Fin," $270,400.00"
-438,08/05/2024,Sandrita Limpieza,Gsts Varios SH," $18,000.00"
-439,10/05/2024,Celeste CAJA,Serv. Comer. y Fin," $256,000.00"
-440,10/05/2024,Regalo Luna CR,Extraordinarios," $287,000.00"
-442,10/05/2024,Juan CAJA,Serv. Comer. y Fin," $1,000,000.00"
-443,10/05/2024,Sandrita Limpieza,Gsts Varios SH," $18,000.00"
-445,10/05/2024,Cadete,Logística," $10,000.00"
-448,13/05/2024,Walter comisionista,Logística," $9,000.00"
-450,13/05/2024,Sandrita Limpieza,Gsts Varios SH," $18,000.00"
-452,14/05/2024,Comisiones Marquez Gold,Serv. Comer. y Fin," $286,100.00"
-453,14/05/2024,Samael CAJA,Serv. Comer. y Fin," $750,000.00"
-454,14/05/2024,Comisionista Walter,Logística," $5,000.00"
-456,15/05/2024,Sandrita Limpieza,Gsts Varios SH," $18,000.00"
-457,16/05/2024,Cadete pago comisiones Marquez Gold,Logística," $10,140.00"
-461,17/05/2024,Sandrita Limpieza,Gsts Varios SH," $18,000.00"
-462,17/05/2024,Eugenia CAJA,Serv. Comer. y Fin," $200,000.00"
-464,17/05/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $36,000.00"
-466,18/05/2024,CAJA TERE,Serv. Comer. y Fin," $151,650.00"
-470,20/05/2024,Sandrita Limpieza,Gsts Varios SH," $36,000.00"
-472,21/05/2024,Retira Tati para Oficina,Serv. Comer. y Fin," $2,400,000.00"
-473,21/05/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $3,936.00"
-474,21/05/2024,Pehuen CAJA,Serv. Comer. y Fin," $260,000.00"
-476,22/05/2024,Celeste CAJA,Serv. Comer. y Fin," $344,800.00"
-478,22/05/2024,Sandrita Limpieza,Serv. Comer. y Fin," $18,000.00"
-479,23/05/2024,Walter comisionista,Logística," $5,000.00"
-480,23/05/2024,Diego Tecnico Cobra,Serv. Comer. y Fin," $234,500.00"
-483,24/05/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-484,24/05/2024,CAJA EUGE,Serv. Comer. y Fin," $150,000.00"
-486,27/05/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $19,344.00"
-487,27/05/2024,Damaris CAJA,Serv. Comer. y Fin," $65,000.00"
-489,27/05/2024,Tere CAJA,Serv. Comer. y Fin," $158,000.00"
-490,27/05/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-491,28/05/2024,Walter comisionista,Logística," $5,000.00"
-492,28/05/2024,Diego pago trabajos,Serv. Comer. y Fin," $221,500.00"
-496,29/05/2024,Walter comisionista,Logística," $13,000.00"
-497,29/05/2024,Fede retira para Oficina,Serv. Comer. y Fin," $700,000.00"
-499,29/05/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-500,30/05/2024,Retira Tati para Oficina,Serv. Comer. y Fin," $400,000.00"
-501,31/05/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-502,31/05/2024,sandrita Limpieza,Gsts Varios SH," $14,000.00"
-503,31/05/2024,Tarjetas y Volantes Euge,Serv. Comer. y Fin," $23,800.00"
-507,01/06/2024,EUGE CAJA ,Serv. Comer. y Fin," $250,000.00"
-508,03/06/2024,Ana Olivera (comision de gama),Serv. Comer. y Fin," $86,100.00"
-509,03/06/2024,Focos LOCAL,Gsts Varios SH," $51,000.00"
-512,04/06/2024,Send Box,Logística," $9,650.00"
-513,04/06/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin," $503,300.00"
-515,04/06/2024,Sandra Limpieza,Gsts Varios SH," $18,000.00"
-519,06/06/2024,Tere cubre Francos ,Serv. Comer. y Fin," $282,155.00"
-520,06/06/2024,Sueldo Celeste,Serv. Comer. y Fin," $360,545.00"
-522,07/06/2024,Samael CAJA,Serv. Comer. y Fin," $500,000.00"
-523,08/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-524,10/06/24,libreria,Gsts Varios SH," $17,300.00"
-525,10/06/24,via cargo,Logística," $16,710.00"
-526,11/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-529,12/06/2024,Samael CAJA ,Serv. Comer. y Fin," $1,000,000.00"
-531,13/06/2024,Comisiones Marquez Gold,Serv. Comer. y Fin," $181,000.00"
-532,13/06/2024,gasto cadete ,Logística," $10,000.00"
-533,13/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-535,14/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-536,18/06/2024,Retira Jose para Oficina,Serv. Comer. y Fin," $850,000.00"
-537,18/06/2024,Publicidad Canal 12 - Lagarto,Serv. Comer. y Fin," $151,800.00"
-538,18/06/2024,Cadete,Logística," $10,000.00"
-539,18/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-540,18/06/2024,Tere CAJA,Serv. Comer. y Fin," $73,000.00"
-541,18/06/2024,Diego Colocaciones,Serv. Comer. y Fin," $161,100.00"
-542,18/06/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin," $54,172.00"
-545,18/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-548,21/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-554,24/06/2024,walter comisionista,Logística," $5,000.00"
-556,24/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-557,25/06/2024,Compra Bolsitas,Gsts Varios SH," $1,900.00"
-558,25/06/2024,Md Cargas,Logística," $17,100.00"
-559,25/06/2024,Diego CAJA colocaciones,Serv. Comer. y Fin," $218,500.00"
-560,25/06/2024,Retira Diego para Oficina,Serv. Comer. y Fin," $1,200,000.00"
-564,26/06/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-565,26/06/2024,Samael CAJA,Serv. Comer. y Fin," $350,000.00"
-566,27/06/2024,Comisionista Walter,Logística," $5,000.00"
-568,27/06/2024,Comisionista,Logística," $5,000.00"
-570,27/06/2024,Sandra Limpieza,Gsts Varios SH," $18,000.00"
-571,29/06/2024,CAJA TERE,Serv. Comer. y Fin," $79,000.00"
-574,01/07/2024,Celeste CAJA,Serv. Comer. y Fin," $7,000.00"
-575,01/07/2024,Compra del super ,Gsts Varios SH," $96,184.00"
-576,01/07/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-577,01/07/2024,Ishtar CAJA,Serv. Comer. y Fin," $361,500.00"
-578,02/07/2024,Celeste CAJA,Serv. Comer. y Fin," $233,000.00"
-579,02/07/2024,Celeste Sueldo,Serv. Comer. y Fin," $360,550.00"
-580,02/07/2024,Diego Mantiñan Grafica Casa Roller,Extraordinarios," $290,000.00"
-582,03/07/2024,Tere Cubre Francos,Serv. Comer. y Fin," $388,276.00"
-583,03/07/2024,Marcos de Leon - PAGO DE COMISIONES,Serv. Comer. y Fin," $293,320.00"
-584,03/07/2024,sandrita Limpieza,Gsts Varios SH," $18,000.00"
-588,04/07/2024,Send Box,Logística," $11,800.00"
-589,04/07/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin," $503,300.00"
-590,04/07/2024,comisiones acuerdo bachi,Serv. Comer. y Fin," $49,240.00"
-591,04/07/2024,Salida Euge / Ish,Extraordinarios," $7,900.00"
-594,05/07/2024,SANDRITA LIMPIEza,Gsts Varios SH," $18,000.00"
-595,05/07/2024,sama caja,Serv. Comer. y Fin," $14,000.00"
-596,05/07/2024,florero pewen,Gsts Varios SH," $12,000.00"
-597,02/07/2024,Marcos de Leon - Vuelto,Serv. Comer. y Fin, $600.00
-603,08/07/2024,Sueldo Mattew Deposito - parte faltante,Serv. Comer. y Fin," $55,200.00"
-604,08/07/2024,Aguinaldo Mattew Deposito,Serv. Comer. y Fin," $241,900.00"
-605,08/07/2024,walter comisionista,Logística," $8,000.00"
-606,08/07/2024,Eugenia CAJA,Serv. Comer. y Fin," $500,000.00"
-607,08/07/2024,Tere CAJA,Serv. Comer. y Fin," $135,500.00"
-608,08/07/2024,Celeste - Diferencia de sueldo,Serv. Comer. y Fin," $78,500.00"
-611,10/07/2024,Samael CAJA,Serv. Comer. y Fin," $1,500,000.00"
-613,10/07/2024,papelera ,Gsts Varios SH," $31,747.00"
-614,10/07/2024,SANDRITA LIMPIEza,Gsts Varios SH," $18,000.00"
-618,11/07/2024,Send Box,Logística," $50,440.00"
-621,12/07/2024,Sandra Limpieza,Gsts Varios SH," $18,000.00"
-623,12/07/2024,Damaris CAJA,Serv. Comer. y Fin," $100,000.00"
-628,15/07/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin," $573,500.00"
-630,15/07/2024,sandrita limpieza,Gsts Varios SH," $18,000.00"
-633,16/07/2024,Yamile Belen Barcena - Comision - Retira Vanina,Serv. Comer. y Fin," $47,780.00"
-639,17/07/2024,sandrita limpieza,Gsts Varios SH," $18,000.00"
-640,17/07/2024,Pehuen CAJA,Serv. Comer. y Fin," $450,000.00"
-641,17/07/2024,Retira Pehuen para Oficina,Serv. Comer. y Fin," $500,000.00"
-642,18/07/2024,Gerardo GAZZONI -  Vuelto dolares,Serv. Comer. y Fin," $39,440.00"
-643,18/07/2024,libreria,Gsts Varios SH," $28,500.00"
-644,18/07/2024,md cargas,Logística," $11,720.00"
-646,18/07/2024,EMI HIJO EUGE COMISION ,Serv. Comer. y Fin," $120,000.00"
-647,19/07/2024,Send Box,Logística," $26,200.00"
-648,19/07/2024,sandrita limpieza,Gsts Varios SH," $20,000.00"
-653,22/07/2024,Tere CAJA,Serv. Comer. y Fin," $210,000.00"
-656,22/07/2024,sandrita limpieza,Gsts Varios SH," $18,000.00"
-658,23/07/2024,Diego Colocaciones,Serv. Comer. y Fin," $301,400.00"
-659,23/07/2024,Samael CAJA,Serv. Comer. y Fin," $350,000.00"
-660,23/07/2024,Emiliano (hijo euge) retira Comisiones ,Serv. Comer. y Fin," $694,100.00"
-661,23/07/2024,Cadete,Logística," $10,000.00"
-662,23/07/2024,Euge CAJA - Pehuen CUMPLE,Serv. Comer. y Fin," $10,000.00"
-663,23/07/2024,Sandrita limpieza,Gsts Varios SH," $14,000.00"
-664,23/07/2024,Comisionista Jose,Logística," $5,000.00"
-665,24/07/2024,Retira Oficina - Diego Tecnico ,Serv. Comer. y Fin," $700,000.00"
-666,24/07/2024,sendbox,Logística," $11,900.00"
-667,24/07/2024,Walter Comisionista,Logística," $12,000.00"
-668,25/07/2024,send box ,Logística," $36,250.00"
-670,26/07/2024,Sandrita limpieza,Gsts Varios SH," $18,000.00"
-671,26/07/2024,caja sama - sandrita ,Gsts Varios SH," $22,000.00"
-676,29/07/2024,Sandrita limpieza,Gsts Varios SH," $18,000.00"
-677,29/07/2024,CAJA - TERE ,Serv. Comer. y Fin," $10,000.00"
-678,30/07/2024,Cartel afuera - Castillo Matias,Extraordinarios," $20,000.00"
-682,31/07/2024,andreani ,Logística," $16,200.00"
-683,02/08/2024,Sueldo Celeste,Serv. Comer. y Fin," $388,845.00"
-684,05/08/2024,Sueldo Mattew Deposito ,Serv. Comer. y Fin," $560,400.00"
-685,05/08/2024,Tere Cubre Francos - Convenio 8 hs ,Serv. Comer. y Fin," $344,700.00"
-686,05/08/2024,Celeste CAJA,Serv. Comer. y Fin," $340,000.00"
-687,05/08/2024,Ishtar CAJA,Serv. Comer. y Fin," $358,800.00"
-688,06/08/2024,via cargo,Serv. Comer. y Fin," $16,000.00"
-689,07/08/2024,Tere CAJA,Serv. Comer. y Fin," $50,000.00"
-690,07/08/2024,Comisionista Naza,Logística," $9,000.00"
-695,09/08/2024,caja sama sandrita,Serv. Comer. y Fin," $4,000.00"
-696,12/08/2024,Samael CAJA,Serv. Comer. y Fin," $1,000,000.00"
-697,12/08/2024,Retiro Fede Oficina ,Serv. Comer. y Fin," $500,000.00"
-699,13/08/2024,Tere CAJA,Serv. Comer. y Fin," $522,000.00"
-700,13/08/2024,Cadete Logistica,Logística," $10,000.00"
-702,14/08/2024,Samael CAJA,Serv. Comer. y Fin," $515,000.00"
-704,14/08/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-705,14/08/2024,Pehuen Caja,Serv. Comer. y Fin," $360,900.00"
-708,15/08/2024,sen box,Logística," $16,500.00"
-710,15/08/2024,richard cadete aut naza ,Logística," $5,000.00"
-711,16/08/2024,send box,Logística," $17,300.00"
-712,16/08/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-713,16/08/2024,walter comisionista,Logística," $10,000.00"
-714,19/08/2024,CRISTINA FORESI -VUELTO EN PESOS,Serv. Comer. y Fin," $5,700.00"
-716,19/08/2024,taxi - uniformes,Logística," $4,000.00"
-717,19/08/2024,Sandrita limpieza,Gsts Varios SH," $22,500.00"
-718,19/08/2024,send box,Logística," $22,200.00"
-719,19/08/2024,walter comisionista,Logística," $10,000.00"
-722,20/08/2024,despedida emi - sofi,Extraordinarios," $50,000.00"
-724,21/08/2024,jorge lusich vuelto en pesos,Serv. Comer. y Fin," $23,847.00"
-726,21/08/2024,maria sol tambarini vuelto en pesos,Serv. Comer. y Fin," $22,600.00"
-727,21/08/2024,Euge nos vende Dolares,Serv. Comer. y Fin," $268,000.00"
-729,21/08/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-730,22/08/2024,Comisionista Alta Gracia ,Logística," $14,000.00"
-731,22/08/2024,Taxi Financiera,Logística," $15,000.00"
-732,22/08/2024,Entrega Sama a Financiera,Serv. Comer. y Fin," $2,800,000.00"
-733,22/08/2024,Md Cargas,Logística," $17,700.00"
-734,22/08/2024,Libreria Cartuchos de impresora,Gsts Varios SH," $83,200.00"
-735,23/08/2024,Cadete,Logística," $15,000.00"
-738,24/08/2024,Tere Dia Jueves Franco,Serv. Comer. y Fin," $26,500.00"
-739,24/08/2024,Send Box,Logística," $36,500.00"
-740,24/08/2024,Sandra Limpieza,Gsts Varios SH," $22,500.00"
-741,24/08/2024,Samael CAJA,Serv. Comer. y Fin," $18,000.00"
-742,26/08/2024,walter comisionista,Logística," $10,000.00"
-743,26/04/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-747,26/08/2024,Tere Caja ,Serv. Comer. y Fin," $5,000.00"
-749,28/08/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-752,29/08/2024,Diego CaJA cOLOCACIONES,Serv. Comer. y Fin," $345,550.00"
-753,29/08/2024,Lucia CAJA,Serv. Comer. y Fin," $100,000.00"
-754,29/08/2024,Cadete,Logística," $10,000.00"
-755,29/08/2024,Samael CAJA,Serv. Comer. y Fin," $1,300,000.00"
-756,29/08/2024,send box,Logística," $17,300.00"
-757,30/08/2024,desayuno casa roller,Gsts Varios SH," $7,200.00"
-759,30/08/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-761,31/08/2024,TERE caja ,Serv. Comer. y Fin," $177,089.00"
-762,31/08/2024,TERE - Soul garden ,Soul Garden," $150,000.00"
-764,02/09/2024,Gatos Local,Gsts Varios SH," $7,800.00"
-765,02/09/2024,super,Gsts Varios SH," $109,751.00"
-766,02/09/2024,Comisionista Walter,Logística," $8,000.00"
-767,02/09/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-768,02/09/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin," $734,900.00"
-769,02/09/2024,vueltos en pesos marlene bonadero,Serv. Comer. y Fin," $70,040.00"
-771,04/09/2024,Emiliano (hijo euge) retira Comisiones ,Serv. Comer. y Fin," $180,000.00"
-773,04/09/2024,CONTROL COCHERA LOCAL,Extraordinarios," $12,000.00"
-774,04/09/2024,matt deposito sueldo,Serv. Comer. y Fin," $588,796.00"
-775,04/09/2024,CELESTE - SUELDO ,Serv. Comer. y Fin," $404,277.00"
-776,04/09/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-777,05/09/2024,Ishtar CAJA,Serv. Comer. y Fin," $350,000.00"
-778,05/09/2024,Send Box,Logística," $33,600.00"
-780,06/09/2024,Send Box,Logística," $45,000.00"
-782,06/09/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-783,06/09/2024,Sama CAJA - sandrita limpia casa ,Serv. Comer. y Fin," $22,500.00"
-788,09/09/2024,Caja TERE - ,Serv. Comer. y Fin," $10,000.00"
-789,09/09/2024,UNIFORMES,Extraordinarios," $585,599.00"
-790,10/09/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin," $397,000.00"
-792,10/09/2024,sandrita limpieza,Gsts Varios SH," $45,000.00"
-794,11/09/2024,walter comisionista,Logística," $8,000.00"
-796,13/09/2024,DANIEL MERCADO TECNICO ,Serv. Comer. y Fin," $114,250.00"
-797,13/09/2024,sen box,Logística," $30,000.00"
-799,13/09/2024,TERE - CAJA ,Serv. Comer. y Fin," $400,000.00"
-800,13/09/2024,SAMA - CAJA -SANDRITA LIMPIA CASA,Serv. Comer. y Fin," $22,500.00"
-801,13/09/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-802,13/09/2024,CELE - CAJA ,Serv. Comer. y Fin," $339,139.00"
-803,14/09/2024,UBER CAPACITACION FACU COOREMAN,Logística," $16,000.00"
-809,17/09/2024,Tere Cubre Franco,Serv. Comer. y Fin," $344,700.00"
-810,17/09/2024,Diego Colocaciones,Serv. Comer. y Fin," $871,000.00"
-811,17/09/2024,Sandra Limpieza (falto anotar sem pasada),Gsts Varios SH," $22,500.00"
-812,16/09/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-814,19/09/2024,Celeste CAJA,Serv. Comer. y Fin," $330,000.00"
-816,20/09/2024,Tere CAJA,Serv. Comer. y Fin," $640,000.00"
-817,20/09/2024,senbox,Logística," $33,587.00"
-818,18/09/2024º,sandrita limpieza,Gsts Varios SH," $22,500.00"
-819,20/09/2024,Sandrita Limpieza,Gsts Varios SH," $25,000.00"
-820,20/09/2024,Uniformes,Extraordinarios," $115,300.00"
-821,20/09/2024,Taxi,Logística," $6,000.00"
-824,21/09/2024,Caja Sama ,Serv. Comer. y Fin," $600,000.00"
-827,24/09/2024,Folletos Soul Garden ,Soul Garden," $245,000.00"
-829,24/09/2024,Cadete,Logística," $10,000.00"
-832,25/09/2024,Send Box,Logística," $95,930.00"
-833,25/09/2024,Pehuen Caja,Serv. Comer. y Fin," $35,489.00"
-835,25/09/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-836,23/09/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-837,26/09/2024,reunion comercial federacion patronal de seguros,Extraordinarios," $13,200.00"
-840,28/09/2024,EUGE - CAJA ,Serv. Comer. y Fin," $200,000.00"
-842,30/09/2024,Diferencia de Pagos de mes a Tere ,Serv. Comer. y Fin," $47,800.00"
-846,01/10/2024,Retira Diego para Oficina,Serv. Comer. y Fin," $1,000,000.00"
-847,01/10/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin," $1,012,200.00"
-849,01/10/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-850,01/10/2024,Tere CAJA,Serv. Comer. y Fin," $300,000.00"
-853,02/10/2024,Celeste SUELDO,Serv. Comer. y Fin," $404,300.00"
-854,02/10/2024,matt deposito sueldo,Serv. Comer. y Fin," $588,800.00"
-855,27/09/2024,PLOTEO LOCAL  - ,Extraordinarios," $65,000.00"
-856,01/10/2024,Tere CAJA,Serv. Comer. y Fin," $5,000.00"
-857,02/10/2024,walter comisionista,Serv. Comer. y Fin," $45,000.00"
-859,02/10/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-860,02/10/2024,Samael CAJA,Serv. Comer. y Fin," $650,000.00"
-862,01/10/2024,PAN LA TASCA - 1 DE OCTUBRE - ASADO ,Extraordinarios," $5,000.00"
-863,20/09/2024,Walter comisionista - Karina Carraza,Logística," $30,000.00"
-864,20/09/2024,Walter comisionista - Caso Roberto A Rodriguez,Logística," $20,000.00"
-865,19/09/2024,Walter comisionista ,Logística," $10,000.00"
-866,04/09/2024,Cadete Logistica,Logística," $5,000.00"
-868,04/10/2024,valeria novillo,Serv. Comer. y Fin," $30,000.00"
-869,04/10/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-870,04/10/2024,Daniel MERCADO TECNICO ,Serv. Comer. y Fin," $52,000.00"
-873,07/10/2024,walter comisionista,Logística," $73,153.00"
-874,07/10/2024,waltwen comisionista,Logística," $15,000.00"
-875,07/10/2024,TERE - CUBRE FRANCO,Serv. Comer. y Fin," $490,252.00"
-877,07/10/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-879,08/10/2024,Comisionista soul Garden ,Soul Garden," $10,000.00"
-880,08/10/2024,Send Box,Logística," $22,390.00"
-881,08/10/2024,Diego Colocaciones,Serv. Comer. y Fin," $351,600.00"
-882,08/10/2024,Sandrita Limpieza,Serv. Comer. y Fin," $22,500.00"
-885,09/10/2024,CELE - CAJA COMPLETA COMISIONES POR COBRAR,Serv. Comer. y Fin," $193,720.00"
-886,10/10/2024,SUPER - Local,Gsts Varios SH," $157,651.00"
-887,10/10/2024,Sandra Limpieza,Gsts Varios SH," $22,500.00"
-888,10/10/2024,Celeste CAJA,Serv. Comer. y Fin," $3,500.00"
-893,14/10/2024,sandrita limpieza casa sama,Serv. Comer. y Fin," $18,500.00"
-894,14/10/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-896,14/10/2024,Daniel MERCADO TECNICO ,Serv. Comer. y Fin," $89,500.00"
-897,14/10/2024,Samael CAJA,Serv. Comer. y Fin," $1,200,000.00"
-898,14/10/2024,Eugenia CAJA,Serv. Comer. y Fin," $696,000.00"
-899,15/10/2024,Diego CAJA colocaciones,Serv. Comer. y Fin," $416,000.00"
-900,15/10/2024,Send Box,Logística," $12,200.00"
-901,15/10/2024,Tere CAJA,Serv. Comer. y Fin," $812,000.00"
-902,15/10/2024,Tere Soul Garden ,Soul Garden," $95,000.00"
-904,16/10/2024,Libreria Cartuchos de impresora,Gsts Varios SH," $19,400.00"
-905,16/10/2024,send Box,Logística," $18,700.00"
-906,16/10/2024,Samael CAJA,Serv. Comer. y Fin," $230,000.00"
-907,16/10/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-908,16/10/2024,diferencia vuelto en efectivo capdevilla,Serv. Comer. y Fin," $4,600.00"
-909,16/10/2024,send Box,Logística," $12,200.00"
-911,18/10/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-913,21/10/24,walter comisionista ,Logística," $63,000.00"
-915,21/10/2024,sandrita limpieza,Gsts Varios SH," $22,500.00"
-917,22/10/2024,Ishtar CAJA,Serv. Comer. y Fin," $320,000.00"
-919,22/10/2024,Celeste CAJA,Serv. Comer. y Fin," $50,000.00"
-921,22/10/2024,Diego cobra Colocaciones,Serv. Comer. y Fin," $841,731.00"
-922,23/10/24,ferreteria ,Gsts Varios SH," $10,000.00"
-924,23/10/24,sandrita limpieza,Gsts Varios SH," $23,000.00"
-926,24/10/2024,Seguros Expo,Extraordinarios," $75,000.00"
-927,24/10/2024,Almuerzo Expo,Extraordinarios," $40,000.00"
-928,24/10/2024,Ishtar CAJA,Serv. Comer. y Fin," $700,000.00"
-929,24/10/2024,Afterofice Expo,Extraordinarios," $14,000.00"
-931,25/10/2024,Comisionista soul Garden ,Soul Garden," $28,000.00"
-932,25/10/2024,Almuerzo expo,Extraordinarios," $34,000.00"
-933,25/10/2024,Rosana Ricaldone- Vuelto de dolares ,Serv. Comer. y Fin," $57,400.00"
-934,25/10/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-935,25/10/2024,Walter comisionista ,Logística," $160,000.00"
-936,25/10/2024,Gonzalo Luna- Colocaccion Pisos Expo,Extraordinarios," $150,000.00"
-937,25/10/2024,Afterofice Expo,Extraordinarios," $24,000.00"
-939,26/10/2024,Daniel Tecnico,Serv. Comer. y Fin," $100,000.00"
-940,27/10/2024,Afterofice Expo,Extraordinarios," $44,000.00"
-944,28/10/2024,Sandrita Limpieza,Gsts Varios SH," $22,500.00"
-945,29/10/2024,Ingletadora para Taller Cordoba,Extraordinarios," $333,000.00"
-947,29/10/2024,Flete vuelta de complejo ferial expo,Logística," $90,000.00"
-948,29/10/2024, diego mantine Pago,Serv. Comer. y Fin," $609,900.00"
-949,29/10/2024,Ingletadora para Taller Cordoba,Serv. Comer. y Fin," $43,700.00"
-950,29/10/2024,walter comisionista,Logística," $90,000.00"
-952,30/10/2024,SANDRITA LIMPIEZA,Gsts Varios SH," $22,500.00"
-953,31/10/2024,walter comisionista,Logística," $40,000.00"
-954,31/10/2024,celeste caJA,Serv. Comer. y Fin," $4,500.00"
-957,31/10/2024,Gastos deposito,Logística," $31,800.00"
-958,31/10/2024,Tere CAJA,Serv. Comer. y Fin," $391,000.00"
-959,31/10/2024,Pago proveedores soulgarden,Soul Garden," $150,000.00"
-
+,fecha,concepto,categoría
+0,01/02/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+1,01/03/2024,Sandrita Limpieza,Gsts Varios SH
+2,01/03/2024,Streecht Deposito,Logística
+3,01/03/2024,Farmacia,Gsts Varios SH
+4,01/06/2024,Linea cargada por error  Movimiento Duplicado,Serv. Comer. y Fin
+5,01/07/2024,Celeste CAJA,Serv. Comer. y Fin
+6,01/07/2024,Compra del super ,Gsts Varios SH
+7,01/10/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin
+8,01/10/2024,PAN LA TASCA  1 DE OCTUBRE  ASADO ,Extraordinarios
+9,01/10/2024,Tere CAJA,Serv. Comer. y Fin
+10,01/10/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin
+11,01/10/2024,PAN LA TASCA  1 DE OCTUBRE  ASADO ,Extraordinarios
+12,02/01/2024,Sandra Limpieza,Gsts Varios SH
+13,02/01/2024,Bolsas,Gsts Varios SH
+14,02/01/2024,Bolsas,Gsts Varios SH
+15,02/02/2024,Celeste CAJA,Serv. Comer. y Fin
+16,02/02/2024,cereales,Gsts Varios SH
+17,02/02/2024,Sandrita Limpieza,Gsts Varios SH
+18,02/02/2024,Sandrita Limpieza,Gsts Varios SH
+19,02/02/2024,Sandrita Limpieza,Gsts Varios SH
+20,02/03/2024,Eugenia Viaje  Dpto,Extraordinarios
+21,02/03/2024,Eugenia Viaje  Dpto,Extraordinarios
+22,02/03/2024,Eugenia Viaje  Dpto,Extraordinarios
+23,02/07/2024,Diego Mantiñan Grafica Casa Roller,Extraordinarios
+24,02/07/2024,Diego Mantiñan Grafica Casa Roller,Extraordinarios
+25,02/07/2024,Diego Mantiñan Grafica Casa Roller,Extraordinarios
+26,02/07/2024,Diego Mantiñan Grafica Casa Roller,Extraordinarios
+27,02/09/2024,Gatos Local,Gsts Varios SH
+28,02/09/2024,vueltos en pesos marlene bonadero,Serv. Comer. y Fin
+29,02/09/2024,Gatos Local,Gsts Varios SH
+30,02/09/2024,super,Gsts Varios SH
+31,02/09/2024,vueltos en pesos marlene bonadero,Serv. Comer. y Fin
+32,02/09/2024,Comisionista Walter,Logística
+33,02/09/2024,sandrita limpieza,Gsts Varios SH
+34,02/09/2024,vueltos en pesos marlene bonadero,Serv. Comer. y Fin
+35,02/09/2024,super,Gsts Varios SH
+36,02/10/2024,matt deposito sueldo,Serv. Comer. y Fin
+37,02/10/2024,Samael CAJA,Serv. Comer. y Fin
+38,02/10/2024,walter comisionista,Serv. Comer. y Fin
+39,03/01/2024,Celeste CAJA,Serv. Comer. y Fin
+40,03/04/2024,Asado primero de mes,Extraordinarios
+41,03/04/2024,Asado primero de mes,Extraordinarios
+42,03/04/2024,ISHTAR CAJA,Serv. Comer. y Fin
+43,03/04/2024,Tere Caja,Serv. Comer. y Fin
+44,03/04/2024,Entrega Sama en Oficina,Serv. Comer. y Fin
+45,03/05/2024,Diego tecnico,Serv. Comer. y Fin
+46,03/05/2024,DIETETICA  ,Gsts Varios SH
+47,03/05/2024,Diego tecnico,Serv. Comer. y Fin
+48,03/05/2024,DIETETICA  ,Gsts Varios SH
+49,03/05/2024,Diego tecnico,Serv. Comer. y Fin
+50,03/05/2024,Eugenia CAJA,Serv. Comer. y Fin
+51,03/07/2024,Tere Cubre Francos,Serv. Comer. y Fin
+52,04/01/2024,Send Box,Logística
+53,04/01/2024,Send Box,Logística
+54,04/01/2024,Bicentenario,Logística
+55,04/01/2024,Bicentenario,Logística
+56,04/01/2024,Compra medicamentos,Gsts Varios SH
+57,04/01/2024,Send Box,Logística
+58,04/01/2024,Fernando Falcon Reyes vuelto de dolares,Serv. Comer. y Fin
+59,04/01/2024,Send Box,Logística
+60,04/03/2024,Transporte Sonic,Logística
+61,04/03/2024,Md Cargas,Logística
+62,04/03/2024,send box,Logística
+63,04/06/2024,Sandra Limpieza,Gsts Varios SH
+64,04/06/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin
+65,04/07/2024,Send Box,Logística
+66,04/07/2024,Salida Euge  Ish,Extraordinarios
+67,04/07/2024,Salida Euge  Ish,Extraordinarios
+68,04/07/2024,Salida Euge  Ish,Extraordinarios
+69,04/09/2024,CONTROL COCHERA LOCAL,Extraordinarios
+70,04/09/2024,CONTROL COCHERA LOCAL,Extraordinarios
+71,04/09/2024,Cadete Logistica,Logística
+72,04/09/2024,CONTROL COCHERA LOCAL,Extraordinarios
+73,04/09/2024,CONTROL COCHERA LOCAL,Extraordinarios
+74,04/10/2024,Sandrita Limpieza,Gsts Varios SH
+75,04/10/2024,Daniel MERCADO TECNICO ,Serv. Comer. y Fin
+76,05/01/2024,Carlos Md,Logística
+77,05/01/2024,Sandrita Limpieza,Gsts Varios SH
+78,05/01/2024,Carlos Md,Logística
+79,05/01/2024,Carlos Md,Logística
+80,05/01/2024,Sandrita Limpieza,Gsts Varios SH
+81,05/02/2024,Send Box,Logística
+82,05/02/2024,Send Box,Logística
+83,05/03/2024,Marquez y Asociados  COMISIONES  Retira Tati,Serv. Comer. y Fin
+84,05/03/2024,Gastos Local,Gsts Varios SH
+85,05/03/2024,Transporte Poty,Logística
+86,05/03/2024,Marquez y Asociados  COMISIONES  Retira Tati,Serv. Comer. y Fin
+87,05/04/2024,Sandrita Limpieza,Gsts Varios SH
+88,05/04/2024,Foco Deposito,Extraordinarios
+89,05/04/2024,Foco Deposito,Extraordinarios
+90,05/04/2024,Send Box,Logística
+91,05/04/2024,Foco Deposito,Extraordinarios
+92,05/07/2024,SANDRITA LIMPIEza,Gsts Varios SH
+93,05/07/2024,SANDRITA LIMPIEza,Gsts Varios SH
+94,05/08/2024,Tere Cubre Francos  Convenio 8 hs ,Serv. Comer. y Fin
+95,05/08/2024,Sueldo Mattew Deposito ,Serv. Comer. y Fin
+96,05/08/2024,Celeste CAJA,Serv. Comer. y Fin
+97,06/02/2024,Tere Caja,Serv. Comer. y Fin
+98,06/02/2024,Maria Eugenia Funes Devolucion de plata,Serv. Comer. y Fin
+99,06/02/2024,Cerrajeria puerta Local,Extraordinarios
+100,06/02/2024,Pehuen CAJA,Serv. Comer. y Fin
+101,06/03/2024,via cargo ,Logística
+102,06/03/2024,send box,Logística
+103,06/03/2024,libreria reunion horizonte,Gsts Varios SH
+104,06/03/2024,libreria reunion horizonte,Gsts Varios SH
+105,06/05/2024,Sandrita Limpieza,Gsts Varios SH
+106,06/06/2024,Tere cubre Francos ,Serv. Comer. y Fin
+107,06/06/2024,Sueldo Celeste,Serv. Comer. y Fin
+108,06/09/2024,Sama CAJA  sandrita limpia casa ,Serv. Comer. y Fin
+109,06/09/2024,Send Box,Logística
+110,06/09/2024,Send Box,Logística
+111,06/09/2024,sandrita limpieza,Gsts Varios SH
+112,07/02/2024,Tere cubre Francos,Serv. Comer. y Fin
+113,07/03/2024,Panaderia ,Gsts Varios SH
+114,07/05/2024,Ishtar CAJA,Serv. Comer. y Fin
+115,07/05/2024,Ishtar CAJA,Serv. Comer. y Fin
+116,07/06/2024,Samael CAJA,Serv. Comer. y Fin
+117,07/08/2024,Comisionista Naza,Logística
+118,07/10/2024,waltwen comisionista,Logística
+119,07/10/2024,Sandrita Limpieza,Gsts Varios SH
+120,07/10/2024,TERE  CUBRE FRANCO,Serv. Comer. y Fin
+121,08/02/2024,Reunion Euge,Extraordinarios
+122,08/02/2024,Reunion Euge,Extraordinarios
+123,08/02/2024,Reunion Euge,Extraordinarios
+124,08/02/2024,Mariela Macario  vuelto ,Serv. Comer. y Fin
+125,08/02/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+126,08/02/2024,Reunion Euge,Extraordinarios
+127,08/02/2024,Mariela Macario  vuelto ,Serv. Comer. y Fin
+128,08/02/2024,Gastos Local,Gsts Varios SH
+129,08/02/2024,Send Box,Logística
+130,08/03/2024,libreria reunion horizonte,Gsts Varios SH
+131,08/03/2024,Send Box,Logística
+132,08/03/2024,Sandrita Limpieza,Gsts Varios SH
+133,08/04/2024,Sandrita Limpieza,Gsts Varios SH
+134,08/04/2024,Sandrita Limpieza,Gsts Varios SH
+135,08/04/2024,Tere Cubre Franco,Serv. Comer. y Fin
+136,08/04/2024,Tere Cubre Franco,Serv. Comer. y Fin
+137,08/06/2024,sandrita Limpieza,Gsts Varios SH
+138,08/07/2024,walter comisionista,Logística
+139,08/07/2024,Tere CAJA,Serv. Comer. y Fin
+140,08/07/2024,Eugenia CAJA,Serv. Comer. y Fin
+141,08/07/2024,Celeste  Diferencia de sueldo,Serv. Comer. y Fin
+142,08/07/2024,Tere CAJA,Serv. Comer. y Fin
+143,08/10/2024,Comisionista soul Garden ,Soul Garden
+144,08/10/2024,Comisionista soul Garden ,Soul Garden
+145,08/10/2024,Send Box,Logística
+146,08/10/2024,Comisionista soul Garden ,Soul Garden
+147,08/10/2024,Comisionista soul Garden ,Soul Garden
+148,08/10/2024,Comisionista soul Garden ,Soul Garden
+149,08/10/2024,Comisionista soul Garden ,Soul Garden
+150,08/10/2024,Comisionista soul Garden ,Soul Garden
+151,08/10/2024,Comisionista soul Garden ,Soul Garden
+152,08/10/2024,Comisionista soul Garden ,Soul Garden
+153,08/10/2024,Comisionista soul Garden ,Soul Garden
+154,08/10/2024,Comisionista soul Garden ,Soul Garden
+155,08/10/2024,Comisionista soul Garden ,Soul Garden
+156,08/10/2024,Comisionista soul Garden ,Soul Garden
+157,08/10/2024,Comisionista soul Garden ,Soul Garden
+158,08/10/2024,Comisionista soul Garden ,Soul Garden
+159,08/10/2024,Comisionista soul Garden ,Soul Garden
+160,08/10/2024,Comisionista soul Garden ,Soul Garden
+161,09/01/2024,Via Cargo,Logística
+162,09/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+163,09/02/2024, vacaciones sandrita limpieza,Extraordinarios
+164,09/02/2024,libreria,Gsts Varios SH
+165,09/02/2024,Franco Tecnico,Serv. Comer. y Fin
+166,09/02/2024,alquiler ish CAJA,Serv. Comer. y Fin
+167,09/02/2024, vacaciones sandrita limpieza,Extraordinarios
+168,09/02/2024, vacaciones sandrita limpieza,Extraordinarios
+169,09/02/2024, vacaciones sandrita limpieza,Extraordinarios
+170,09/02/2024, vacaciones sandrita limpieza,Extraordinarios
+171,09/02/2024,Bandas elasticas,Gsts Varios SH
+172,09/02/2024, vacaciones sandrita limpieza,Extraordinarios
+173,09/04/2024,Juan Francisco Perez Gaudio,Serv. Comer. y Fin
+174,09/09/2024,Caja TERE  ,Serv. Comer. y Fin
+175,09/09/2024,UNIFORMES,Extraordinarios
+176,09/09/2024,UNIFORMES,Extraordinarios
+177,09/09/2024,Caja TERE  ,Serv. Comer. y Fin
+178,09/09/2024,UNIFORMES,Extraordinarios
+179,09/09/2024,UNIFORMES,Extraordinarios
+180,09/09/2024,UNIFORMES,Extraordinarios
+181,09/10/2024,CELE  CAJA COMPLETA COMISIONES POR COBRAR,Serv. Comer. y Fin
+182,10/01/2024,Bicentenario,Logística
+183,10/04/2024,Sueldo Mattew Deposito,Serv. Comer. y Fin
+184,10/05/2024,Regalo Luna CR,Extraordinarios
+185,10/05/2024,Celeste CAJA,Serv. Comer. y Fin
+186,10/05/2024,Cadete,Logística
+187,10/05/2024,Sandrita Limpieza,Gsts Varios SH
+188,10/07/2024,Samael CAJA,Serv. Comer. y Fin
+189,10/07/2024,Samael CAJA,Serv. Comer. y Fin
+190,10/10/2024,Celeste CAJA,Serv. Comer. y Fin
+191,10/10/2024,SUPER  Local,Gsts Varios SH
+192,11/01/2024,Send Box,Logística
+193,11/04/2024,Gasto Panaderia,Gsts Varios SH
+194,11/07/2024,Send Box,Logística
+195,11/07/2024,Send Box,Logística
+196,11/09/2024,walter comisionista,Logística
+197,11/09/2024,walter comisionista,Logística
+198,12/01/2024,Franco Tecnico,Serv. Comer. y Fin
+199,12/01/2024,Sandra Limpieza,Gsts Varios SH
+200,12/01/2024,send box,Logística
+201,12/03/2024,Bebidas para entrevistas,Extraordinarios
+202,12/03/2024,Cadete,Logística
+203,12/03/2024,Picadas para entrevistas,Extraordinarios
+204,12/03/2024,Cadete,Logística
+205,12/03/2024,Bebidas para entrevistas,Extraordinarios
+206,12/03/2024,Picadas para entrevistas,Extraordinarios
+207,12/04/2024,Thames art de Limpieza  gastos Showroom compartido,Gsts Varios SH
+208,12/07/2024,Damaris CAJA,Serv. Comer. y Fin
+209,12/08/2024,Samael CAJA,Serv. Comer. y Fin
+210,12/08/2024,Retiro Fede Oficina ,Serv. Comer. y Fin
+211,13/01/2024,caja sama,Serv. Comer. y Fin
+212,13/01/2024,Tere Caja,Serv. Comer. y Fin
+213,13/01/2024,Tere Caja,Serv. Comer. y Fin
+214,13/03/2024,Sandrita Limpieza,Gsts Varios SH
+215,13/03/2024,Sandrita Limpieza,Gsts Varios SH
+216,13/05/2024,Walter comisionista,Logística
+217,13/06/2024,sandrita Limpieza,Gsts Varios SH
+218,13/08/2024,Cadete Logistica,Logística
+219,13/08/2024,Tere CAJA,Serv. Comer. y Fin
+220,13/08/2024,Tere CAJA,Serv. Comer. y Fin
+221,13/09/2024,SAMA  CAJA SANDRITA LIMPIA CASA,Serv. Comer. y Fin
+222,13/09/2024,CELE  CAJA ,Serv. Comer. y Fin
+223,14/03/2024,mariano gatonni ,Serv. Comer. y Fin
+224,14/03/2024,Samael CAJA,Serv. Comer. y Fin
+225,14/05/2024,Comisionista Walter,Logística
+226,14/05/2024,Comisionista Walter,Logística
+227,14/05/2024,Comisionista Walter,Logística
+228,14/05/2024,Samael CAJA,Serv. Comer. y Fin
+229,14/05/2024,Comisionista Walter,Logística
+230,14/06/2024,sandrita Limpieza,Gsts Varios SH
+231,14/08/2024,Samael CAJA,Serv. Comer. y Fin
+232,14/08/2024,Pehuen Caja,Serv. Comer. y Fin
+233,14/09/2024,UBER CAPACITACION FACU COOREMAN,Logística
+234,14/10/2024,sandrita limpieza,Gsts Varios SH
+235,14/10/2024,Samael CAJA,Serv. Comer. y Fin
+236,15/01/2024,SUPER ,Gsts Varios SH
+237,15/01/2024,SUPER ,Gsts Varios SH
+238,15/02/2024,Diego Tecnico,Serv. Comer. y Fin
+239,15/03/2024,Regalo cumple Celeste  CR,Extraordinarios
+240,15/03/2024,Regalo cumple Celeste  CR,Extraordinarios
+241,15/03/2024,Omar tecnico CAJA,Serv. Comer. y Fin
+242,15/03/2024,Sandrita Limpieza,Gsts Varios SH
+243,15/03/2024,papelera ,Gsts Varios SH
+244,15/03/2024,Regalo cumple Celeste  CR,Extraordinarios
+245,15/03/2024,Regalo cumple Celeste  CR,Extraordinarios
+246,15/03/2024,Regalo cumple Celeste  CR,Extraordinarios
+247,15/03/2024,Regalo cumple Celeste  CR,Extraordinarios
+248,15/07/2024,Diego Tecnico Colocaciones,Serv. Comer. y Fin
+249,15/08/2024,richard cadete aut naza ,Logística
+250,15/08/2024,richard cadete aut naza ,Logística
+251,15/10/2024,Tere Soul Garden ,Soul Garden
+252,15/10/2024,Tere Soul Garden ,Soul Garden
+253,15/10/2024,Diego CAJA colocaciones,Serv. Comer. y Fin
+254,15/10/2024,Tere Soul Garden ,Soul Garden
+255,15/10/2024,Tere Soul Garden ,Soul Garden
+256,15/10/2024,Tere Soul Garden ,Soul Garden
+257,15/10/2024,Tere Soul Garden ,Soul Garden
+258,15/10/2024,Tere Soul Garden ,Soul Garden
+259,15/10/2024,Tere Soul Garden ,Soul Garden
+260,15/10/2024,Tere Soul Garden ,Soul Garden
+261,15/10/2024,Tere Soul Garden ,Soul Garden
+262,15/10/2024,Tere Soul Garden ,Soul Garden
+263,15/10/2024,Tere Soul Garden ,Soul Garden
+264,15/10/2024,Tere Soul Garden ,Soul Garden
+265,15/10/2024,Tere Soul Garden ,Soul Garden
+266,15/10/2024,Tere Soul Garden ,Soul Garden
+267,15/10/2024,Tere Soul Garden ,Soul Garden
+268,15/10/2024,Tere CAJA,Serv. Comer. y Fin
+269,15/10/2024,Tere Soul Garden ,Soul Garden
+270,15/10/2024,Tere Soul Garden ,Soul Garden
+271,15/10/2024,Tere Soul Garden ,Soul Garden
+272,15/10/2024,Tere CAJA,Serv. Comer. y Fin
+273,15/10/2024,Tere CAJA,Serv. Comer. y Fin
+274,15/10/2024,Tere Soul Garden ,Soul Garden
+275,15/10/2024,Tere Soul Garden ,Soul Garden
+276,15/10/2024,Tere Soul Garden ,Soul Garden
+277,15/10/2024,Tere Soul Garden ,Soul Garden
+278,15/10/2024,Tere Soul Garden ,Soul Garden
+279,15/10/2024,Tere Soul Garden ,Soul Garden
+280,15/10/2024,Tere Soul Garden ,Soul Garden
+281,15/10/2024,Tere Soul Garden ,Soul Garden
+282,15/10/2024,Tere Soul Garden ,Soul Garden
+283,15/10/2024,Tere Soul Garden ,Soul Garden
+284,16/01/2024,Pehuen CAJA,Serv. Comer. y Fin
+285,16/01/2024,Pehuen CAJA,Serv. Comer. y Fin
+286,16/05/2024,Cadete pago comisiones Marquez Gold,Logística
+287,16/08/2024,send box,Logística
+288,16/08/2024,walter comisionista,Logística
+289,16/08/2024,send box,Logística
+290,16/08/2024,walter comisionista,Logística
+291,16/08/2024,walter comisionista,Logística
+292,17/01/2024,Compras Local,Gsts Varios SH
+293,17/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+294,17/02/2024,caja cele,Serv. Comer. y Fin
+295,17/04/2024,Sandrita Limpieza,Gsts Varios SH
+296,17/07/2024,sandrita limpieza,Gsts Varios SH
+297,17/09/2024,Sandra Limpieza falto anotar sem pasada,Gsts Varios SH
+298,17/09/2024,Diego Colocaciones,Serv. Comer. y Fin
+299,17/09/2024,Tere Cubre Franco,Serv. Comer. y Fin
+300,18/01/2024,Arreglo de aire acondicionado,Extraordinarios
+301,18/01/2024,Arreglo de aire acondicionado,Extraordinarios
+302,18/01/2024,Arreglo de aire acondicionado,Extraordinarios
+303,18/01/2024,Arreglo de aire acondicionado,Extraordinarios
+304,18/03/2024,Sandrita Limpieza,Gsts Varios SH
+305,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+306,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+307,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+308,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+309,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+310,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+311,18/03/2024,Sandrita Limpieza,Gsts Varios SH
+312,18/03/2024,Regalo Celeste Showroom,Extraordinarios
+313,18/04/2024,Comisionista Walter,Logística
+314,18/04/2024,Comisionista Walter,Logística
+315,18/04/2024,Comisionista Walter,Logística
+316,18/06/2024,sandrita Limpieza,Gsts Varios SH
+317,18/06/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+318,18/06/2024,Publicidad Canal 12  Lagarto,Serv. Comer. y Fin
+319,18/06/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+320,18/07/2024,md cargas,Logística
+321,18/10/2024,sandrita limpieza,Gsts Varios SH
+322,19/01/2024,Regalo Juan  Fede  Gabri,Extraordinarios
+323,19/01/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+324,19/01/2024,Send Box,Logística
+325,19/01/2024,Regalo Juan  Fede  Gabri,Extraordinarios
+326,19/01/2024,via cargo ,Logística
+327,19/01/2024,Send Box,Logística
+328,19/01/2024,via cargo ,Logística
+329,19/01/2024,Regalo Juan  Fede  Gabri,Extraordinarios
+330,19/01/2024,Send Box,Logística
+331,19/01/2024,Regalo Juan  Fede  Gabri,Extraordinarios
+332,19/02/2024,Regalo Carlos MD Logistica,Extraordinarios
+333,19/02/2024,Pehuen CAJA,Serv. Comer. y Fin
+334,19/02/2024,Regalo Carlos MD Logistica,Extraordinarios
+335,19/02/2024,Regalo Carlos MD Logistica,Extraordinarios
+336,19/02/2024,Regalo Carlos MD Logistica,Extraordinarios
+337,19/02/2024,Regalo Carlos MD Logistica,Extraordinarios
+338,19/02/2024,Pehuen CAJA,Serv. Comer. y Fin
+339,19/02/2024,Cargadores ,Extraordinarios
+340,19/03/2024,Send Box,Logística
+341,19/03/2024,Send Box,Logística
+342,19/04/2024,Gastos Local Reunion Horizonte,Gsts Varios SH
+343,19/04/2024,Gastos Local Reunion Horizonte,Gsts Varios SH
+344,19/08/2024,send box,Logística
+345,19/08/2024,walter comisionista,Logística
+346,19/08/2024,CRISTINA FORESI VUELTO EN PESOS,Serv. Comer. y Fin
+347,19/08/2024,CRISTINA FORESI VUELTO EN PESOS,Serv. Comer. y Fin
+348,19/08/2024,taxi  uniformes,Logística
+349,19/08/2024,taxi  uniformes,Logística
+350,19/08/2024,walter comisionista,Logística
+351,20/03/2024,Cereales Showroom,Gsts Varios SH
+352,20/03/2024,Gastos Local,Gsts Varios SH
+353,20/03/2024,Gastos Local,Gsts Varios SH
+354,20/03/2024,Send Box,Logística
+355,20/03/2024,Sandrita Limpieza,Gsts Varios SH
+356,20/03/2024,Gastos Local,Gsts Varios SH
+357,20/03/2024,Sandrita Limpieza,Gsts Varios SH
+358,20/03/2024,Send Box,Logística
+359,20/05/2024,Sandrita Limpieza,Gsts Varios SH
+360,20/05/2024,Sandrita Limpieza,Gsts Varios SH
+361,20/05/2024,Sandrita Limpieza,Gsts Varios SH
+362,20/08/2024,despedida emi  sofi,Extraordinarios
+363,20/08/2024,despedida emi  sofi,Extraordinarios
+364,20/08/2024,despedida emi  sofi,Extraordinarios
+365,20/08/2024,despedida emi  sofi,Extraordinarios
+366,20/08/2024,despedida emi  sofi,Extraordinarios
+367,20/08/2024,despedida emi  sofi,Extraordinarios
+368,20/08/2024,despedida emi  sofi,Extraordinarios
+369,20/09/2024,Uniformes,Extraordinarios
+370,20/09/2024,senbox,Logística
+371,20/09/2024,Walter comisionista  Karina Carraza,Logística
+372,20/09/2024,Walter comisionista  Karina Carraza,Logística
+373,20/09/2024,Taxi,Logística
+374,20/09/2024,Uniformes,Extraordinarios
+375,20/09/2024,Taxi,Logística
+376,20/09/2024,Taxi,Logística
+377,20/09/2024,Uniformes,Extraordinarios
+378,21/02/2024,Sandrita Limpieza,Gsts Varios SH
+379,21/02/2024,Eugenia CAJA ,Serv. Comer. y Fin
+380,21/02/2024,Sandrita Limpieza,Gsts Varios SH
+381,21/05/2024,Retira Tati para Oficina,Serv. Comer. y Fin
+382,21/06/2024,sandrita Limpieza,Gsts Varios SH
+383,21/06/2024,sandrita Limpieza,Gsts Varios SH
+384,21/06/2024,sandrita Limpieza,Gsts Varios SH
+385,21/10/2024,sandrita limpieza,Gsts Varios SH
+386,21/10/24,walter comisionista ,Logística
+387,21/10/24,walter comisionista ,Logística
+388,22/01/2024,Sandra Limpieza,Gsts Varios SH
+389,22/01/2024,Send Box,Logística
+390,22/01/2024,Send Box,Logística
+391,22/01/2024,Tere CAJA,Serv. Comer. y Fin
+392,22/01/2024,Sandra Limpieza,Gsts Varios SH
+393,22/02/2024,veronica juarez devolucion dinero,Serv. Comer. y Fin
+394,22/02/2024,send box,Logística
+395,22/03/2024,Gastos Local  Mouse,Gsts Varios SH
+396,22/03/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+397,22/04/2024,sandrita limpieza,Gsts Varios SH
+398,22/08/2024,Libreria Cartuchos de impresora,Gsts Varios SH
+399,22/08/2024,Comisionista Alta Gracia ,Logística
+400,22/08/2024,Md Cargas,Logística
+401,22/08/2024,Entrega Sama a Financiera,Serv. Comer. y Fin
+402,22/08/2024,Comisionista Alta Gracia ,Logística
+403,22/10/2024,Ishtar CAJA,Serv. Comer. y Fin
+404,23/05/2024,Walter comisionista,Logística
+405,23/05/2024,Walter comisionista,Logística
+406,23/05/2024,Walter comisionista,Logística
+407,23/05/2024,Walter comisionista,Logística
+408,23/05/2024,Walter comisionista,Logística
+409,23/07/2024,Cadete,Logística
+410,23/07/2024,Emiliano hijo euge retira Comisiones ,Serv. Comer. y Fin
+411,23/07/2024,Euge CAJA  Pehuen CUMPLE,Serv. Comer. y Fin
+412,23/07/2024,Cadete,Logística
+413,24/01/2024,pileta para gaby ,Extraordinarios
+414,24/01/2024,pileta para gaby ,Extraordinarios
+415,24/01/2024,pileta para gaby ,Extraordinarios
+416,24/01/2024,Samael CAJA,Serv. Comer. y Fin
+417,24/04/2024,sendbox,Logística
+418,24/04/2024,sendbox,Logística
+419,24/05/2024,sandrita Limpieza,Gsts Varios SH
+420,24/05/2024,sandrita Limpieza,Gsts Varios SH
+421,24/05/2024,sandrita Limpieza,Gsts Varios SH
+422,24/06/2024,sandrita Limpieza,Gsts Varios SH
+423,24/06/2024,sandrita Limpieza,Gsts Varios SH
+424,24/06/2024,sandrita Limpieza,Gsts Varios SH
+425,24/07/2024,sendbox,Logística
+426,24/07/2024,sendbox,Logística
+427,24/07/2024,Walter Comisionista,Logística
+428,24/08/2024,Sandra Limpieza,Gsts Varios SH
+429,24/08/2024,Sandra Limpieza,Gsts Varios SH
+430,24/09/2024,Folletos Soul Garden ,Soul Garden
+431,24/09/2024,Folletos Soul Garden ,Soul Garden
+432,24/09/2024,Folletos Soul Garden ,Soul Garden
+433,24/09/2024,Folletos Soul Garden ,Soul Garden
+434,24/09/2024,Folletos Soul Garden ,Soul Garden
+435,24/09/2024,Folletos Soul Garden ,Soul Garden
+436,24/09/2024,Folletos Soul Garden ,Soul Garden
+437,24/09/2024,Folletos Soul Garden ,Soul Garden
+438,24/09/2024,Folletos Soul Garden ,Soul Garden
+439,24/09/2024,Folletos Soul Garden ,Soul Garden
+440,24/09/2024,Folletos Soul Garden ,Soul Garden
+441,24/09/2024,Folletos Soul Garden ,Soul Garden
+442,24/09/2024,Folletos Soul Garden ,Soul Garden
+443,24/09/2024,Folletos Soul Garden ,Soul Garden
+444,24/09/2024,Folletos Soul Garden ,Soul Garden
+445,24/09/2024,Folletos Soul Garden ,Soul Garden
+446,24/09/2024,Folletos Soul Garden ,Soul Garden
+447,24/09/2024,Folletos Soul Garden ,Soul Garden
+448,24/09/2024,Folletos Soul Garden ,Soul Garden
+449,24/09/2024,Folletos Soul Garden ,Soul Garden
+450,24/09/2024,Cadete,Logística
+451,24/09/2024,Folletos Soul Garden ,Soul Garden
+452,24/09/2024,Folletos Soul Garden ,Soul Garden
+453,24/10/2024,Almuerzo Expo,Extraordinarios
+454,24/10/2024,Almuerzo Expo,Extraordinarios
+455,24/10/2024,Ishtar CAJA,Serv. Comer. y Fin
+456,24/10/2024,Almuerzo Expo,Extraordinarios
+457,24/10/2024,Afterofice Expo,Extraordinarios
+458,24/10/2024,Afterofice Expo,Extraordinarios
+459,24/10/2024,Afterofice Expo,Extraordinarios
+460,24/10/2024,Seguros Expo,Extraordinarios
+461,25/01/2024,Sandrita Limpieza,Gsts Varios SH
+462,25/01/2024,Sandrita Limpieza,Gsts Varios SH
+463,25/01/2024,Sandrita Limpieza,Gsts Varios SH
+464,25/01/2024,Sandrita Limpieza,Gsts Varios SH
+465,25/01/2024,Sandrita Limpieza,Gsts Varios SH
+466,25/03/2024,torta cele ,Extraordinarios
+467,25/03/2024,Sandrita Limpieza,Gsts Varios SH
+468,25/03/2024,torta cele ,Extraordinarios
+469,25/06/2024,Diego CAJA colocaciones,Serv. Comer. y Fin
+470,25/06/2024,Retira Diego para Oficina,Serv. Comer. y Fin
+471,25/07/2024,send box ,Logística
+472,25/09/2024,Sandrita Limpieza,Gsts Varios SH
+473,25/10/2024,Comisionista soul Garden ,Soul Garden
+474,25/10/2024,Afterofice Expo,Extraordinarios
+475,25/10/2024,Comisionista soul Garden ,Soul Garden
+476,25/10/2024,Comisionista soul Garden ,Soul Garden
+477,25/10/2024,Afterofice Expo,Extraordinarios
+478,25/10/2024,Gonzalo Luna Colocaccion Pisos Expo,Extraordinarios
+479,25/10/2024,Comisionista soul Garden ,Soul Garden
+480,25/10/2024,Comisionista soul Garden ,Soul Garden
+481,25/10/2024,Comisionista soul Garden ,Soul Garden
+482,25/10/2024,Comisionista soul Garden ,Soul Garden
+483,25/10/2024,Comisionista soul Garden ,Soul Garden
+484,25/10/2024,Walter comisionista ,Logística
+485,25/10/2024,Sandrita Limpieza,Gsts Varios SH
+486,25/10/2024,Comisionista soul Garden ,Soul Garden
+487,25/10/2024,Comisionista soul Garden ,Soul Garden
+488,25/10/2024,Comisionista soul Garden ,Soul Garden
+489,25/10/2024,Comisionista soul Garden ,Soul Garden
+490,25/10/2024,Comisionista soul Garden ,Soul Garden
+491,25/10/2024,Comisionista soul Garden ,Soul Garden
+492,25/10/2024,Comisionista soul Garden ,Soul Garden
+493,25/10/2024,Comisionista soul Garden ,Soul Garden
+494,25/10/2024,Comisionista soul Garden ,Soul Garden
+495,25/10/2024,Almuerzo expo,Extraordinarios
+496,25/10/2024,Gonzalo Luna Colocaccion Pisos Expo,Extraordinarios
+497,25/10/2024,Afterofice Expo,Extraordinarios
+498,25/10/2024,Gonzalo Luna Colocaccion Pisos Expo,Extraordinarios
+499,25/10/2024,Gonzalo Luna Colocaccion Pisos Expo,Extraordinarios
+500,25/10/2024,Gonzalo Luna Colocaccion Pisos Expo,Extraordinarios
+501,25/10/2024,Almuerzo expo,Extraordinarios
+502,25/10/2024,Comisionista soul Garden ,Soul Garden
+503,25/10/2024,Gonzalo Luna Colocaccion Pisos Expo,Extraordinarios
+504,25/10/2024,Comisionista soul Garden ,Soul Garden
+505,25/10/2024,Walter comisionista ,Logística
+506,25/10/2024,Comisionista soul Garden ,Soul Garden
+507,25/10/2024,Afterofice Expo,Extraordinarios
+508,26/01/2024,Comisiones Marquez y Asociados ,Serv. Comer. y Fin
+509,26/01/2024,Comisiones Marquez y Asociados ,Serv. Comer. y Fin
+510,26/01/2024,Send Box,Logística
+511,26/02/2024,Sandrita Limpieza,Gsts Varios SH
+512,26/02/2024,Diego Tecnico ,Serv. Comer. y Fin
+513,26/02/2024,Sandrita Limpieza,Gsts Varios SH
+514,26/04/2024,sandrita limpieza,Gsts Varios SH
+515,26/04/2024,sandrita limpieza,Gsts Varios SH
+516,26/04/2024,sandrita limpieza,Gsts Varios SH
+517,26/04/2024,sandrita limpieza,Gsts Varios SH
+518,26/06/2024,sandrita Limpieza,Gsts Varios SH
+519,26/07/2024,Sandrita limpieza,Gsts Varios SH
+520,26/07/2024,caja sama  sandrita ,Gsts Varios SH
+521,26/09/2024,reunion comercial federacion patronal de seguros,Extraordinarios
+522,26/09/2024,reunion comercial federacion patronal de seguros,Extraordinarios
+523,26/09/2024,reunion comercial federacion patronal de seguros,Extraordinarios
+524,27/03/2024,Sandrita Limpieza,Gsts Varios SH
+525,27/03/2024,Send Box,Logística
+526,27/04/2024,Celeste CAJA,Serv. Comer. y Fin
+527,27/05/2024,Financiera Nahuel Dolares Pago diferencia de Dolares,Serv. Comer. y Fin
+528,27/05/2024,sandrita Limpieza,Gsts Varios SH
+529,27/05/2024,sandrita Limpieza,Gsts Varios SH
+530,27/05/2024,Tere CAJA,Serv. Comer. y Fin
+531,27/06/2024,Comisionista Walter,Logística
+532,27/06/2024,Comisionista,Logística
+533,27/06/2024,Comisionista,Logística
+534,27/06/2024,Sandra Limpieza,Gsts Varios SH
+535,27/09/2024,PLOTEO LOCAL   ,Extraordinarios
+536,27/09/2024,PLOTEO LOCAL   ,Extraordinarios
+537,27/09/2024,PLOTEO LOCAL   ,Extraordinarios
+538,27/09/2024,PLOTEO LOCAL   ,Extraordinarios
+539,27/10/2024,Afterofice Expo,Extraordinarios
+540,27/10/2024,Afterofice Expo,Extraordinarios
+541,27/10/2024,Afterofice Expo,Extraordinarios
+542,27/10/2024,Afterofice Expo,Extraordinarios
+543,28/03/2024,Sandrita Limpieza,Gsts Varios SH
+544,28/03/2024,Ricardo Comisionista,Logística
+545,28/03/2024,Ricardo Comisionista,Logística
+546,28/05/2024,Walter comisionista,Logística
+547,28/08/2024,sandrita limpieza,Gsts Varios SH
+548,28/08/2024,sandrita limpieza,Gsts Varios SH
+549,28/10/2024,Sandrita Limpieza,Gsts Varios SH
+550,28/10/2024,Sandrita Limpieza,Gsts Varios SH
+551,29/01/2024,Md Cargas,Logística
+552,29/01/2024,torta cumple sama,Extraordinarios
+553,29/01/2024,torta cumple sama,Extraordinarios
+554,29/01/2024,Md Cargas,Logística
+555,29/01/2024,Md Cargas,Logística
+556,29/01/2024,torta cumple sama,Extraordinarios
+557,29/01/2024,Diego corte,Serv. Comer. y Fin
+558,29/01/2024,torta cumple sama,Extraordinarios
+559,29/03/2024,caja Celeste,Serv. Comer. y Fin
+560,29/05/2024,Walter comisionista,Logística
+561,29/05/2024,Walter comisionista,Logística
+562,29/07/2024,Sandrita limpieza,Gsts Varios SH
+563,29/07/2024,Sandrita limpieza,Gsts Varios SH
+564,29/08/2024,Lucia CAJA,Serv. Comer. y Fin
+565,29/08/2024,send box,Logística
+566,29/08/2024,send box,Logística
+567,29/10/2024,Ingletadora para Taller Cordoba,Extraordinarios
+568,29/10/2024,walter comisionista,Logística
+569,29/10/2024, diego mantine Pago,Serv. Comer. y Fin
+570,30/01/2024,Sandra Limpieza,Gsts Varios SH
+571,30/04/2024,regalo ani pewen,Extraordinarios
+572,30/07/2024,Cartel afuera  Castillo Matias,Extraordinarios
+573,30/07/2024,Cartel afuera  Castillo Matias,Extraordinarios
+574,30/07/2024,Cartel afuera  Castillo Matias,Extraordinarios
+575,30/07/2024,Cartel afuera  Castillo Matias,Extraordinarios
+576,30/08/2024,sandrita limpieza,Gsts Varios SH
+577,30/10/2024,SANDRITA LIMPIEZA,Gsts Varios SH
+578,30/10/2024,SANDRITA LIMPIEZA,Gsts Varios SH
+579,31/01/2024,Bicentenario,Logística
+580,31/01/2024,Caja Tere,Serv. Comer. y Fin
+581,31/01/2024,Bicentenario,Logística
+582,31/01/2024,Caja Tere,Serv. Comer. y Fin
+583,31/01/2024,cumple sama autoriza euge ,Extraordinarios
+584,31/01/2024,cumple sama autoriza euge ,Extraordinarios
+585,31/05/2024,sandrita Limpieza,Gsts Varios SH
+586,31/05/2024,sandrita Limpieza,Gsts Varios SH
+587,31/07/2024,andreani ,Logística
+588,31/08/2024,TERE  Soul garden ,Soul Garden
+589,31/08/2024,TERE  Soul garden ,Soul Garden
+590,31/08/2024,TERE  Soul garden ,Soul Garden
+591,31/08/2024,TERE  Soul garden ,Soul Garden
+592,31/08/2024,TERE  Soul garden ,Soul Garden
+593,31/08/2024,TERE  Soul garden ,Soul Garden
+594,31/08/2024,TERE  Soul garden ,Soul Garden
+595,31/08/2024,TERE  Soul garden ,Soul Garden
+596,31/08/2024,TERE  Soul garden ,Soul Garden
+597,31/08/2024,TERE  Soul garden ,Soul Garden
+598,31/08/2024,TERE  Soul garden ,Soul Garden
+599,31/08/2024,TERE  Soul garden ,Soul Garden
+600,31/08/2024,TERE  Soul garden ,Soul Garden
+601,31/08/2024,TERE  Soul garden ,Soul Garden
+602,31/08/2024,TERE  Soul garden ,Soul Garden
+603,31/08/2024,TERE  Soul garden ,Soul Garden
+604,31/08/2024,TERE  Soul garden ,Soul Garden
+605,31/08/2024,TERE  Soul garden ,Soul Garden
+606,31/08/2024,TERE  Soul garden ,Soul Garden
+607,31/08/2024,TERE  Soul garden ,Soul Garden
+608,31/10/2024,Pago proveedores soulgarden,Soul Garden
+609,31/10/2024,Pago proveedores soulgarden,Soul Garden
+610,31/10/2024,Pago proveedores soulgarden,Soul Garden
+611,31/10/2024,Gastos deposito,Logística
+612,31/10/2024,Pago proveedores soulgarden,Soul Garden
+613,31/10/2024,walter comisionista,Logística
+614,31/10/2024,walter comisionista,Logística
+615,31/10/2024,Pago proveedores soulgarden,Soul Garden
+616,31/10/2024,Pago proveedores soulgarden,Soul Garden
+617,31/10/2024,Tere CAJA,Serv. Comer. y Fin
+618,31/10/2024,Pago proveedores soulgarden,Soul Garden
+619,31/10/2024,Pago proveedores soulgarden,Soul Garden
+620,31/10/2024,Pago proveedores soulgarden,Soul Garden
+621,31/10/2024,Pago proveedores soulgarden,Soul Garden
+622,31/10/2024,Pago proveedores soulgarden,Soul Garden
+623,31/10/2024,Pago proveedores soulgarden,Soul Garden
+624,31/10/2024,Pago proveedores soulgarden,Soul Garden
+625,31/10/2024,Pago proveedores soulgarden,Soul Garden
+626,31/10/2024,Pago proveedores soulgarden,Soul Garden
+627,31/10/2024,Pago proveedores soulgarden,Soul Garden
+628,31/10/2024,Pago proveedores soulgarden,Soul Garden
+629,31/10/2024,Pago proveedores soulgarden,Soul Garden
