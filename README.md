@@ -25,6 +25,7 @@ Podemos observar que tantos las métricas **presicion** como **recall**
 presentan valores altos. Si bien valores altos de dichas métricas puede ir de la mano con un 
 modelo que solo predice valores positivos, lo cual disminuye las predicciones false negative (incrementando 
 por ende el **recall**), ambos modelos presentan altos valores de **specificity** (cercanos a uno) por 
-lo que los modelos son buenos también en las predicciones de negativos.
+lo que los modelos son buenos también en las predicciones de valores negativos, lo cual nos permite
+descartar las sospechas anteriormente presentadas.
 
-Para finalizar se presentan las correspondientes matrices de confusión.
+Para finalizar, se presentan las correspondientes matrices de confusión y una pequeña puesta a prueba del modelo.
