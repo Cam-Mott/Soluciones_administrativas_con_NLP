@@ -5,7 +5,8 @@ clasificar los egresos por categoría. Este trabajo suele ser manual y tedioso: 
 debe leer concepto por concepto y elegir la categoría correspondiente. La propuesta 
 presentada consiste en aplicar dos herramientas de la ciencia de datos:
 los **modelos de clasificación** y las técnicas de **procesamiento de lenguaje natural**.
-Mediante dos modelos, **RandomForestClassifier** y las técnicas **Bag of Word** y **TF-IDF**
+Mediante el modelo **RandomForestClassifier** y las técnicas **Bag of Words** y **TF-IDF**, 
+se construirán dos modelos de clasificación a través de los cuales
 se buscará codificar los conceptos en vectores numéricos, para luego utilizar
 los mismos como input de un modelo de clasificación, cuya salida sean las categorías
 correspondientes.
