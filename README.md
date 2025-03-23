@@ -29,3 +29,5 @@ lo que los modelos son buenos también en las predicciones de valores negativos,
 descartar las sospechas anteriormente presentadas.
 
 Para finalizar, se presentan las correspondientes matrices de confusión y una pequeña puesta a prueba del modelo.
+Cabe mencionar que las pruebas de cross validation no fueron realizadas, dado que el presente objetivo es presentar
+la construcción de un modelo que tome NLP como input, no así las pruebas de validación cruzada.
